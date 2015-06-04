@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Sounds">
+        <file>BG Music.mp3</file>
+        <file>Explosion.mp3</file>
+        <file>BG Music 2.mp3</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>bomb.png</file>
+        <file>p3_front.png</file>
+        <file>p1_front.png</file>
+        <file>BG Center Tile.png</file>
+        <file>pineSapling.png</file>
+        <file>boxAlt.png</file>
+        <file>stars.png</file>
+        <file>hud_p1.png</file>
+        <file>hud_p1Alt.png</file>
+        <file>sample.png</file>
+    </qresource>
+</RCC>
