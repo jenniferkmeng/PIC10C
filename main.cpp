@@ -2,6 +2,7 @@
 #include "game.h"
 #include "introscreen.h"
 
+// External global variable so that all classes can access it
 Game* game;
 
 int main(int argc, char *argv[])
